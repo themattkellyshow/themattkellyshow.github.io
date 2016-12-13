@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: mattkelly.io
 locale: en_US
-description: Describe your website here.
+description: echo "Universe CLI"
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -36,15 +36,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Matt Kelly
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: matt@mattkelly.io
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  twitter: mattkellyshow
+  facebook: mattkellyshow
+  github: themattkellyshow
+  stackexchange: http://stackoverflow.com/users/3908577/matt-kelly
+  linkedin: themattkellyshow
   instagram: #username
   flickr: #username
   tumblr: #username
