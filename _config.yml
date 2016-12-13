@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Matt Kelly
-  avatar: bio-photo.jpg
+  avatar: starrymatt.jpg
   email: matt@mattkelly.io
   disqus-shortname:
   twitter: mattkellyshow
